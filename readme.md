@@ -31,8 +31,8 @@ Here are a few projects I've been working on:
 ### [Project 1: Lukabook](https://github.com/LukaUte2019/Lukabook)
 A web application built with React and Node.js that allows users to create and manage their tasks efficiently.
 
-### [Project 2: Python Data Analysis](https://github.com/LukaUte2019/python-data-analysis)
+### [Project 2: Python Data Analysis](https://github.com/LukaUte2019/WebSites)
 A collection of Python scripts and Jupyter notebooks for data analysis and visualization.
 
-### [Project 3: Java Spring Boot API](https://github.com/LukaUte2019/spring-boot-api)
+### [Project 3: Java Spring Boot API](https://github.com/LukaUte2019/)
 A RESTful API built with Java and Spring Boot, featuring CRUD operations and JWT authentication.
