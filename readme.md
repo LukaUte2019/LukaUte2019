@@ -34,7 +34,7 @@ A web application built with React and Node.js that allows users to create and m
 ### [Project 2: Websites](https://github.com/LukaUte2019/WebSites)
 Websites for [My website](http://lukaserver.ddns.net)
 
-### [Project 3: Instagram clone](https://github.com/LukaUte2019/Instagram-clone)
+### [Project 3: Instagram clone](https://github.com/LukaUte2019/Instagram-clone-fix)
 An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️ - No longer maintained.
 
 
