@@ -28,7 +28,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📚 Projects
 Here are a few projects I've been working on:
-### [Project 1: Awesome Web App](](https://github.com/LukaUte2019/Lukabook)
+### [Project 1: Lukabook](https://github.com/LukaUte2019/Lukabook)
 A web application built with React and Node.js that allows users to create and manage their tasks efficiently.
 
 ### [Project 2: Python Data Analysis](https://github.com/LukaUte2019/python-data-analysis)
