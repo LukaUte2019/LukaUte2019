@@ -32,7 +32,9 @@ Here are a few projects I've been working on:
 A web application built with React and Node.js that allows users to create and manage their tasks efficiently.
 
 ### [Project 2: Websites](https://github.com/LukaUte2019/WebSites)
-A collection of Python scripts and Jupyter notebooks for data analysis and visualization.
+Websites
 
 ### [Project 3: Java Spring Boot API](https://github.com/LukaUte2019/)
-A RESTful API built with Java and Spring Boot, featuring CRUD operations and JWT authentication.
+An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️ - No longer maintained.
+
+
