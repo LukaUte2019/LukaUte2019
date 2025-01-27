@@ -17,7 +17,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ![LukaUte2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaUte2019&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [lukaute2019@example.com](mailto:lukaute2019@example.com)
+- **Email:** [lukaute2019@example.com](mailto:lukapravivlogovi@gmail.com)
 - **LinkedIn:** [LukaUte](https://www.linkedin.com/in/lukaute)
 
 ## 📝 Latest Blog Posts
@@ -31,7 +31,7 @@ Here are a few projects I've been working on:
 ### [Project 1: Lukabook](https://github.com/LukaUte2019/Lukabook)
 A web application built with React and Node.js that allows users to create and manage their tasks efficiently.
 
-### [Project 2: Python Data Analysis](https://github.com/LukaUte2019/WebSites)
+### [Project 2: Websites](https://github.com/LukaUte2019/WebSites)
 A collection of Python scripts and Jupyter notebooks for data analysis and visualization.
 
 ### [Project 3: Java Spring Boot API](https://github.com/LukaUte2019/)
