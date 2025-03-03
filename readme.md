@@ -17,7 +17,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ![LukaUte2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaUte2019&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [lukaute2019@example.com](mailto:lukapravivlogovi@gmail.com)
+- **Email:** [lukaute2019@example.com](mailto:lukaute2019@example.com)
 - **LinkedIn:** [LukaUte](https://www.linkedin.com/in/lukaute)
 
 ## 📝 Latest Blog Posts
@@ -29,7 +29,15 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ## 📚 Projects
 Here are a few projects I've been working on:
 ### [Project 1: Lukabook](https://github.com/LukaUte2019/Lukabook)
-A web application built with React and Node.js that allows users to create and manage their tasks efficiently.
+Lukabook
+<b>Feed Posts</b>
+
+There is a feed in this app. Follow someone by searching their username and refresh the feed to see their posts.
+
+<b>Message Anyone With Chat App</b>
+
+You can message people who use the app and Encrypted SMS
+
 
 ### [Project 2: Websites](https://github.com/LukaUte2019/WebSites)
 Websites for [My website](http://lukaserver.ddns.net)
@@ -37,4 +45,9 @@ Websites for [My website](http://lukaserver.ddns.net)
 ### [Project 3: Instagram clone](https://github.com/LukaUte2019/Instagram-clone-fix)
 An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️ - No longer maintained.
 
+## 💬 Let's Connect!
+Feel free to reach out to me if you want to collaborate on a project, ask a question, or just say hi!
 
+---
+
+⭐️ From [LukaUte2019](https://github.com/LukaUte2019)
