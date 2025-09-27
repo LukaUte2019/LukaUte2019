@@ -39,8 +39,7 @@ Local development API utilities to accelerate your projects and simplify testing
 
 ## 📫 Connect with Me
 
-- Email: (add your email here)
-- LinkedIn: (add your LinkedIn here)
+- Email: lukapravivlogovi@gmail.com
 - Or open an issue/PR on any of my repositories!
 
 ---
